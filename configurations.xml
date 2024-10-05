@@ -1,0 +1,17 @@
+<root>
+	<gameName>AcientRun</gameName>
+	<endpoints>
+		<timestamp>https://everydev.000webhostapp.com/SavesEndpoints/timestamp.php</timestamp>
+		<getSave>https://everydev.000webhostapp.com/SavesEndpoints/get.php</getSave>
+		<setSave>https://everydev.000webhostapp.com/SavesEndpoints/set.php</setSave>
+		<buy>https://everydev.000webhostapp.com/SavesEndpoints/buy.php</buy>
+		<donate>https://everydev.000webhostapp.com/SavesEndpoints/donate.php</donate>
+	</endpoints>
+	<donatePrices>
+		<coins_200>40</coins_200>
+		<coins_500>80</coins_500>
+		<coins_1500>250</coins_1500>
+		<coins_3000>400</coins_3000>
+		<coins_x3>10</coins_x3>
+	</donatePrices>
+</root>
